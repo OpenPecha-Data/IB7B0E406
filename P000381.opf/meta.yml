@@ -1,5 +1,7 @@
 id: P000381
 initial_creation_type: ocr
+created_at: 17/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG5377
   title: ཕར་ཕྱིན་མཐའ་དཔྱོད་
@@ -16,10 +18,3 @@ source_metadata:
       title: Volume 2 of phar phyin mtha' dpyod
       volume_number: 2
       total_pages: 450
-ebook_metadata:
-  title: ཕར་ཕྱིན་མཐའ་དཔྱོད་
-  author: ''
-  sku: P000381
-  cover: cover.jpg
-  layers:
-  - pagination
