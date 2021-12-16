@@ -1,7 +1,7 @@
 id: P000381
 initial_creation_type: ocr
 created_at: 17/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-16 15:37:02.337905
 source_metadata:
   id: bdr:W1KG5377
   title: ཕར་ཕྱིན་མཐའ་དཔྱོད་
@@ -18,3 +18,5 @@ source_metadata:
       title: Volume 2 of phar phyin mtha' dpyod
       volume_number: 2
       total_pages: 450
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
